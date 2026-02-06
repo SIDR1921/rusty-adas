@@ -1,0 +1,3 @@
+[LOG ENTRY] Thread 0:PowerSensor (ID: 101) -> Voltage: 12.5V
+[LOG ENTRY] Thread 1:Camera      (ID: 201) -> Res: 1080p [RECORDING]
+[LOG ENTRY] Thread 2:PowerSensor (ID: 102) -> Voltage: 48.0V
